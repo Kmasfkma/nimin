@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   creator:
     'Actral Team - Kyrlos Adel',
   publisher:
-    'Kortix Team - Kyrlos Adel',
+    'Actral Team - Kyrlos Adel',
   category: 'Technology',
   applicationName: 'Nimind',
   formatDetection: {
