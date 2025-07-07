@@ -1,11 +1,11 @@
 export const siteConfig = {
-  name: 'Kortix Nimind',
-  url: 'https://nimind.so/',
-  description: 'Kortix AI',
+  name: 'Actral Nimind',
+  url: 'https://www.nimind.xyz/',
+  description: 'Actral AI',
   links: {
-    twitter: 'https://x.com/kortixai',
-    github: 'https://github.com/kortix-ai/',
-    linkedin: 'https://www.linkedin.com/company/kortix/',
+    twitter: 'https://x.com/actralai',
+    github: 'https://github.com/Actral-ai/',
+    linkedin: 'https://www.linkedin.com/company/actral/',
   },
 };
 
