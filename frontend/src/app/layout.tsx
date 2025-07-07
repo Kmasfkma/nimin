@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     template: `%s - ${siteConfig.name}`,
   },
   description:
-    'Suna is a fully open source AI assistant that helps you accomplish real-world tasks with ease. Through natural conversation, Suna becomes your digital companion for research, data analysis, and everyday challenges.',
+    'Nimind is an AI-powered platform that executes digital tasks end-to-end — from research to development to launch. It turns complex workflows into automated actions using intelligent agents and API integrations.',
   keywords: [
     'AI',
     'artificial intelligence',
@@ -39,17 +39,16 @@ export const metadata: Metadata = {
     'web scraping',
     'file management',
     'AI assistant',
-    'open source',
     'research',
     'data analysis',
   ],
-  authors: [{ name: 'Kortix Team', url: 'https://suna.so' }],
+  authors: [{ name: 'Actral Team', url: 'https://nimind.xyz' }],
   creator:
-    'Kortix Team - Adam Cohen Hillel, Marko Kraemer, Domenico Gagliardi, and Quoc Dat Le',
+    'Actral Team - Kyrlos Adel',
   publisher:
-    'Kortix Team - Adam Cohen Hillel, Marko Kraemer, Domenico Gagliardi, and Quoc Dat Le',
+    'Kortix Team - Kyrlos Adel',
   category: 'Technology',
-  applicationName: 'Suna',
+  applicationName: 'Nimind',
   formatDetection: {
     telephone: false,
     email: false,
@@ -64,17 +63,17 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: 'Suna - Open Source Generalist AI Agent',
+    title: 'Nimind - Generalist AI Agent',
     description:
-      'Suna is a fully open source AI assistant that helps you accomplish real-world tasks with ease through natural conversation.',
+      'Nimind is an AI-powered platform that executes digital tasks end-to-end — from research to development to launch. It turns complex workflows into automated actions using intelligent agents and API integrations.',
     url: siteConfig.url,
-    siteName: 'Suna',
+    siteName: 'Nimind',
     images: [
       {
         url: '/banner.png',
         width: 1200,
         height: 630,
-        alt: 'Suna - Open Source Generalist AI Agent',
+        alt: 'Nimind - Generalist AI Agent',
         type: 'image/png',
       },
     ],
@@ -83,17 +82,17 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Suna - Open Source Generalist AI Agent',
+    title: 'Nimind - Generalist AI Agent',
     description:
-      'Suna is a fully open source AI assistant that helps you accomplish real-world tasks with ease through natural conversation.',
-    creator: '@kortixai',
-    site: '@kortixai',
+      'Nimind is AI assistant that helps you accomplish real-world tasks with ease through natural conversation.',
+    creator: '@actral',
+    site: '@actral',
     images: [
       {
         url: '/banner.png',
         width: 1200,
         height: 630,
-        alt: 'Suna - Open Source Generalist AI Agent',
+        alt: 'Nimind - Generalist AI Agent',
       },
     ],
   },
