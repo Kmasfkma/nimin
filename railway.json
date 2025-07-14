@@ -1,8 +1,8 @@
 {
   "build": {
-    "dockerComposePath": "next build"
+    "dockerComposePath": "docker compose up -d"
   },
   "deploy": {
-    "startCommand": "next start"
+    "startCommand": "docker stack deploy -c docker-compose.yml suna"
   }
 }
