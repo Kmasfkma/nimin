@@ -1,8 +1,8 @@
 {
   "build": {
-    "dockerComposePath": "docker-compose.yml"
+    "dockerComposePath": "npm run build"
   },
   "deploy": {
-    "startCommand": "docker compose up --build"
+    "startCommand": "npm run start"
   }
 }
