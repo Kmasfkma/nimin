@@ -1,8 +1,8 @@
 {
   "build": {
-    "dockerComposePath": "docker compose build"
+    "dockerComposePath": "next build"
   },
   "deploy": {
-    "startCommand": "docker compose up"
+    "startCommand": "next start"
   }
 }
