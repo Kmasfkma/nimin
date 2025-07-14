@@ -1,8 +1,8 @@
 {
   "build": {
-    "dockerComposePath": "python setup.py"
+    "dockerComposePath": "docker compose build"
   },
   "deploy": {
-    "startCommand": "python start.py"
+    "startCommand": "docker compose up"
   }
 }
